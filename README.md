@@ -62,5 +62,5 @@
   </a>
 </div>
 <br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrewstet&theme=dark" alt="andrewstet" />
-<img src="https://komarev.com/ghpvc/?username=andrewstet&label=Profile%20views&color=0e75b6&style=flat" alt="andrewstet" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=andrewstet&theme=dark" alt="GitHub streak" width="450" />
+<img src="https://komarev.com/ghpvc/?username=andrewstet&label=Profile%20views%20since%20Sep%2015%2C%202026&color=0e75b6&style=flat" alt="Profile views" />
